@@ -1,16 +1,27 @@
 body {
-  background-color: rgb(56, 56, 56);
+  background-color: rgb(29, 53, 87);
   text-align: center;
+  color: black;
 }
 
 .jumbotron {
-  background-color: steelblue;
+  background-color: rgb(168, 218, 220);
+  margin: 12px;
+  padding: 8px; 
+  box-sizing: border-box;
+  border: 5px solid rgb(69, 123, 157);
+  border-style: double;
 }
 
 .card {
   margin: 12px;
   padding: 8px;
   box-sizing: border-box;
-  background-color: steelblue;
-  border: 5px solid blue;
+  background-color: rgb(168, 218, 220);
+  border: 5px solid rgb(69, 123, 157);
+  border-style: double;
+}
+
+.blockquote-footer {
+  color: black;
 }
