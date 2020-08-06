@@ -1,3 +1,16 @@
-.left {
+body {
+  background-color: rgb(56, 56, 56);
   text-align: center;
+}
+
+.jumbotron {
+  background-color: steelblue;
+}
+
+.card {
+  margin: 12px;
+  padding: 8px;
+  box-sizing: border-box;
+  background-color: steelblue;
+  border: 5px solid blue;
 }
